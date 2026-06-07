@@ -1,4 +1,4 @@
 # repo !!
 repo!
 created a reposistory 
-sample reposistory for sample 
+sample reposistory for learning 
